@@ -19,6 +19,22 @@ I'm seeking cybersecurity, IT, or networking internship opportunities where I ca
 | Exploring Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> | July 2025 |
 | Vs Rambley Friday Night Funkin' Mod    | <a href="https://www.youtube.com/watch?v=ATODbC4zM6c&t=305s">Full Playthrough on YouTube</a> | July 2024 | 
 
+
+## Certifications
+
+### Cisco CCNA IN PROGRESS, Expected August 2026
+
+### CompTIA Security+, August 2025
+
+<img width="1003" height="778" alt="CompTIASec+_IMG" src="https://github.com/user-attachments/assets/71ecd6d7-91c5-4ff9-a907-f2781ee678d5" />
+
+
+### Google Cybersecurity Professional Certificate, August 2023
+
+<img width="1003" height="778" alt="CyberCert" src="https://github.com/user-attachments/assets/74de02fd-c736-454d-a927-2e6b8b02ac4f" />
+
+
+
 ## Tools
 
 ## Programming Languages 
@@ -85,16 +101,6 @@ I'm seeking cybersecurity, IT, or networking internship opportunities where I ca
 - **Suricata** – IDS/IPS engine.
 
 
-## Certifications
-<div>
-CompTIA Security+, August 2025
-
-<img width="1003" height="778" alt="CompTIASec+_IMG" src="https://github.com/user-attachments/assets/71ecd6d7-91c5-4ff9-a907-f2781ee678d5" />
-
-
-Google Cybersecurity Professional Certificate, August 2023
-  
-![CyberCert](https://github.com/user-attachments/assets/74de02fd-c736-454d-a927-2e6b8b02ac4f)
 
 
 
