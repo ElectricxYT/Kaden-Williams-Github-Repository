@@ -1,19 +1,6 @@
 # Hello! I'm Kaden Williams
 <a href="https://www.linkedin.com/in/kaden-williams-850217370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dartmouth.joinhandshake.com/profiles/kadenrw"
-   style="
-     display:inline-block;
-     padding:10px 18px;
-     background-color:#00C389;
-     color:white;
-     font-weight:700;
-     text-decoration:none;
-     border-radius:4px;
-     font-family:Arial, Helvetica, sans-serif;
-     font-size:14px;
-   ">
-  HANDSHAKE
-</a>
+<a href="https://dartmouth.joinhandshake.com/profiles/kadenrw"><img src = "https://img.shields.io/badge/-Handshake-d3fb52?&style=for-the-badge&logo=handshake&logoColor=black"/></a>
 
 
 I am a current first-year at Dartmouth College with a profound interest in software engineering, information technology, and cybersecurity. I plan on majoring in Computer Science. 
