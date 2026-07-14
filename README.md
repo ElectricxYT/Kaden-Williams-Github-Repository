@@ -3,18 +3,18 @@
 <a href="https://dartmouth.joinhandshake.com/profiles/kadenrw"><img src = "https://img.shields.io/badge/-Handshake-d3fb52?&style=for-the-badge&logo=handshake&logoColor=black"/></a>
 
 
-I am a current second-year at Dartmouth College with a profound interest in Cybersecurity, Operating Technology, Information Technology, and Networking. I plan on majoring in Computer Science with a modified major in Digital Arts (3D-Modeling and Animation, Computer Graphics, Rendering, etc). 
+I am a second-year Computer Science intended major at Dartmouth College passionate about cybersecurity, networking, and information technology. Through technical projects, home lab experimentation, and IT support, I enjoy building practical solutions that strengthen security, improve operational efficiency, and solve real-world technical challenges. I also plan to pursue a modified major in Digital Arts, exploring 3D modeling and computer graphics.
 
 ## Objective
 
-My goal is to gain a diverse Computer Science education and expand my skillset by learning cybersecurity, networking, software development/engineering, 3D Modeling, and more. I am working towards eventually joining a Security Operations Center (SOC) as a Tier 1 Analyst and gaining hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity and acquiring an internship. 
+I'm seeking cybersecurity, IT, or networking internship opportunities where I can contribute to meaningful technical projects while continuing to develop as an engineer. Whether improving security operations, automating workflows, or supporting critical infrastructure, I enjoy learning new technologies and applying them to solve practical problems.
 
 ## Projects
 
-| Project                                         | Associated Project         | Date         |
+| Project                                         | Associated Project Link         | Date         |
 |-----------------------------------------------|----------------------------|---------------|
-| Security Automation Dashboard          |<a href="https://github.com/ElectricxYT/Security-Automation-Dashboard/tree/main"> Picket Security Automation Dashboard</a> | January 2026 |
-| Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> | January 2026 |
+| Picket - Security Automation Dashboard          |<a href="https://github.com/ElectricxYT/Security-Automation-Dashboard/tree/main"> Picket Security Automation Dashboard</a> | January 2026 |
+| Java-based Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> | January 2026 |
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>| July 2025 |
 | Exploring Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> | July 2025 |
 | Vs Rambley Friday Night Funkin' Mod    | <a href="https://www.youtube.com/watch?v=ATODbC4zM6c&t=305s">Full Playthrough on YouTube</a> | July 2024 | 
