@@ -3,11 +3,11 @@
 <a href="https://dartmouth.joinhandshake.com/profiles/kadenrw"><img src = "https://img.shields.io/badge/-Handshake-d3fb52?&style=for-the-badge&logo=handshake&logoColor=black"/></a>
 
 
-I am a current first-year at Dartmouth College with a profound interest in software engineering, information technology, and cybersecurity. I plan on majoring in Computer Science. 
+I am a current second-year at Dartmouth College with a profound interest in Cybersecurity, Operating Technology, Information Technology, and Networking. I plan on majoring in Computer Science with a modified major in Digital Arts (3D-Modeling and Animation, Computer Graphics, Rendering, etc). 
 
 ## Objective
 
-My goal is to gain a diverse Computer Science education and expand my skillset by learning software development/engineering, 3D Modeling, Networking, cybersecurity, and more. I am working towards eventually joining a Security Operations Center (SOC) as a Tier 1 Analyst and gaining hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity and acquiring an internship. 
+My goal is to gain a diverse Computer Science education and expand my skillset by learning cybersecurity, networking, software development/engineering, 3D Modeling, and more. I am working towards eventually joining a Security Operations Center (SOC) as a Tier 1 Analyst and gaining hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity and acquiring an internship. 
 
 ## Projects
 
@@ -16,8 +16,7 @@ My goal is to gain a diverse Computer Science education and expand my skillset b
 | Security Automation Dashboard          |<a href="https://github.com/ElectricxYT/Security-Automation-Dashboard/tree/main"> Picket Security Automation Dashboard</a> | January 2026 |
 | Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> | January 2026 |
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>| July 2025 |
-| Learning about Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> | July 2025 |
-| Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk (In Progress) </a> | July 2025 |
+| Exploring Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> | July 2025 |
 | Vs Rambley Friday Night Funkin' Mod    | <a href="https://www.youtube.com/watch?v=ATODbC4zM6c&t=305s">Full Playthrough on YouTube</a> | July 2024 | 
 
 ## Tools
