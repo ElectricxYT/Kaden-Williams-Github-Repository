@@ -1,4 +1,7 @@
 # Hello! I'm Kaden Williams
+
+<img width="327" height="423" alt="KadenSeniorPortrait" src="https://github.com/user-attachments/assets/93f8a6e0-60fb-4187-9a1a-9f61bf9b86be" />
+
 <a href="https://www.linkedin.com/in/kaden-williams-850217370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://dartmouth.joinhandshake.com/profiles/kadenrw"><img src = "https://img.shields.io/badge/-Handshake-d3fb52?&style=for-the-badge&logo=handshake&logoColor=black"/></a>
 
