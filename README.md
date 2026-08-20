@@ -16,7 +16,7 @@ I'm seeking cybersecurity, IT, or networking internship opportunities where I ca
 
 | Project                                         | Associated Project Link         | Date         |
 |-----------------------------------------------|----------------------------|---------------|
-|Dartmouth Student ITC Technician Printer Dashboard | Repo In-Progress | August 2026 |
+|Dartmouth Student ITC Technician Printer Dashboard |<a href="https://github.com/ElectricxYT/Power-Apps-Printer-Dashboard/blob/main/README.md"> Power Apps Printer Dashboard</a> | August 2026 |
 | Picket - Security Automation Dashboard          |<a href="https://github.com/ElectricxYT/Security-Automation-Dashboard/tree/main"> Picket Security Automation Dashboard</a> | January 2026 |
 | Java-based Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> | January 2026 |
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>| July 2025 |
